@@ -1,0 +1,5 @@
+streamlit
+docling
+groq
+scikit-learn
+numpy
